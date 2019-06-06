@@ -53,7 +53,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover{color: #2ECC71; text-decoration: 
 header {background:#333333; margin-bottom:30px;}
 header .wrap-header{height: 80px;}
 
-header #logo {float: left; margin: 10px;}
+header #logo {float: left; margin: 2px; margin-top: 11px}
 
 /* -------------------------------------------- */
 /* ------------------Navigation---------------- */
@@ -65,7 +65,7 @@ nav .wrap-nav{float: right;}
 .menu  ul li:hover {background-color:#ffffff;}
 .menu  ul li a {font-size: 14px; line-height:14px;color: #ffffff;display: block;padding: 6px 10px;margin-bottom: 5px;z-index: 6;position: relative;font-weight:bold; text-transform:uppercase;}
 .menu  ul li:hover a {color:#000000;} 
-
+.menu ul li:nth-child(4) {padding: 20px 15px 15px 15px; }
 /* -------------------------------------------- */
 /* ------------------Content------------------- */
 #content {}
