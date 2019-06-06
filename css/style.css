@@ -65,7 +65,7 @@ nav .wrap-nav{float: right;}
 .menu  ul li:hover {background-color:#ffffff;}
 .menu  ul li a {font-size: 14px; line-height:14px;color: #ffffff;display: block;padding: 6px 10px;margin-bottom: 5px;z-index: 6;position: relative;font-weight:bold; text-transform:uppercase;}
 .menu  ul li:hover a {color:#000000;} 
-.menu  ul li.nth-child(4) {padding: 28px 15px 21px 15px;}
+.menu  ul li.nth-child(4) {padding: 20px 14px 21px 14px;}
 
 /* -------------------------------------------- */
 /* ------------------Content------------------- */
